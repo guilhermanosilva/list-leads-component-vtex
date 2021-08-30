@@ -1,4 +1,10 @@
 {
-  "form-lead.title.btn": "Register",
-  "form-lead.description.btn": "name for registering leads button"
+  "editor.list-leads.title": "List Leads",
+  "list-leads.name": "Name",
+  "list-leads.phone": "Phone",
+  "list-leads.email": "Email",
+  "list-leads.type": "Typo",
+  "list-leads.created": "Created",
+  "list-leads.updated": "Updated",
+  "list-leads.deleteBtn": "Delete"
 }

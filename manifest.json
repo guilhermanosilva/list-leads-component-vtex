@@ -1,9 +1,9 @@
 {
   "vendor": "hiringcoders202106",
-  "name": "form-leads",
+  "name": "list-leads",
   "version": "0.0.1",
-  "title": "Register Leads",
-  "description": "Register Leads component",
+  "title": "List Leads",
+  "description": "List Leads component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",

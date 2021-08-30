@@ -1,5 +1,5 @@
 {
-  "form-leads": {
-    "component": "FormLeads"
+  "list-leads": {
+    "component": "ListLeads"
   }
 }
